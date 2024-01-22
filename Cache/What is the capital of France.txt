@@ -1,0 +1,58 @@
+#Title: What is the Capital of France?
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction
+2. Geography of France
+3. History of Paris
+4. Paris as the Capital
+5. Famous Landmarks in Paris
+6. Conclusion
+7. References
+
+#Slide: 2
+#Header: Introduction
+#Content: 
+- Welcome to this presentation on the capital of France!
+- Today, we will explore the fascinating city of Paris and its significance as the capital of France.
+
+#Slide: 3
+#Header: Geography of France
+#Content: 
+- France is located in Western Europe.
+- It shares borders with several countries, including Spain, Italy, Germany, and Belgium.
+- The country is known for its diverse landscapes, from the stunning French Riviera to the picturesque French Alps.
+
+#Slide: 4
+#Header: History of Paris
+#Content: 
+- Paris has a rich history dating back over 2,000 years.
+- It was originally a Roman city known as Lutetia.
+- Throughout the centuries, Paris has witnessed significant events, such as the French Revolution and World War II.
+
+#Slide: 5
+#Header: Paris as the Capital
+#Content: 
+- Paris became the capital of France in the 10th century.
+- It has remained the political, economic, and cultural center of the country ever since.
+- The city is home to important government institutions, including the French Parliament and the President's residence.
+
+#Slide: 6
+#Header: Famous Landmarks in Paris
+#Content: 
+- Paris is renowned for its iconic landmarks, such as the Eiffel Tower, Notre-Dame Cathedral, and Louvre Museum.
+- These landmarks attract millions of tourists each year and contribute to the city's global reputation.
+
+#Slide: 7
+#Header: Conclusion
+#Content: 
+- Paris, the capital of France, is a city with a rich history and cultural significance.
+- Its geographical location, historical background, and famous landmarks make it a must-visit destination for travelers from around the world.
+
+#Slide: 8
+#Header: References
+#Content: 
+- Insert references here (e.g., books, articles, websites) to acknowledge the sources of information used in this presentation.
+
+#Slide: END
